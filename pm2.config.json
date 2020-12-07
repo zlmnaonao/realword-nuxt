@@ -3,7 +3,7 @@
         {
             "name": "RealWorld",
             "script": "npm",
-            "arts": "start"
+            "args": "start"
         }
     ]
 }
